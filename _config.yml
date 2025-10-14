@@ -19,7 +19,7 @@ title: xKeNcHi's Blog # the main title
 tagline: Personal Blog & Tech Writeups # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  Personal blog with tech writeups, security research, and CTF solutions by xKeNcHii.
+  Personal blog with tech writeups, security research, and CTF solutions by xKeNcHi.
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
@@ -35,7 +35,7 @@ social:
   email: kohhxuanqi@gmail.com # change to your email address (optional)
   links:
     # The first element serves as the copyright owner's link
-    - https://github.com/xkenchi # change to your GitHub homepage
+    - https://github.com/xkenchii # change to your GitHub homepage
     # - https://twitter.com/username # change to your Twitter homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username

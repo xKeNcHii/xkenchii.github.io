@@ -1,8 +1,8 @@
 ---
 title: Fool the FashionNet Govtech AI CTF 2025 Challenge - Writeup
-date: 2025-10-14 16:30:00 +0800
-categories: [CTF, Adversarial Machine Learning, AI Security]
-tags: [ctf, adversarial-ml, fashion-mnist, ssim, linf, ai-security, govtech, ai-ctf-2025]
+date: 2025-10-14 17:30:00 +0800
+categories: [CTF, Machine Learning]
+tags: [ctf, adversarial-ml, fashionnet, ssim, linf, ai-security, govtech, ai-ctf-2025]
 author: Koh Xuan Qi
 excerpt: Crafted a near-invisible adversarial perturbation that fools FashionNET's AI classifier while maintaining SSIM ≥ 0.85 and L∞ ≤ 0.08. Demonstrates the challenges of creating perceptually similar adversarial examples under tight constraints.
 ---

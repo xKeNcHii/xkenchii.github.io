@@ -1,7 +1,7 @@
 ---
 title: Limit Theory Govtech AI CTF 2025 Challenge - Writeup
-date: 2025-10-14 14:00:00 +0800
-categories: [CTF, Reverse Engineering]
+date: 2025-10-14 20:00:00 +0800
+categories: [CTF, Reverse Engineering, Machine Learning]
 tags: [ctf, mathematics, polynomial-regression, govtech, ai-ctf-2025]
 author: Koh Xuan Qi
 mermaid: true

@@ -1,7 +1,7 @@
 ---
 title: MNIST Govtech AI CTF 2025 Challenge - Writeup
-date: 2025-10-14 16:00:00 +0800
-categories: [CTF, Machine Learning, AI Security]
+date: 2025-10-14 17:00:00 +0800
+categories: [CTF, Machine Learning]
 tags: [ctf, mnist, govtech, ai-ctf-2025]
 author: Koh Xuan Qi
 excerpt: Discovered a hidden backdoor in an MNIST classifier with 11 classes instead of 10. The backdoor uses tensor product verification and modular arithmetic to detect a secret bit pattern embedded in the first 16 pixels.

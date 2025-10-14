@@ -1,9 +1,9 @@
 ---
 title: Well Well Well Govtech AI CTF 2025 Challenge - Writeup
-date: 2025-10-14 15:00:00 +0800
+date: 2025-10-14 18:00:00 +0800
 categories: [CTF, LLM, Reverse Engineering]
 tags: [ctf, llm, transformers, rope, reverse-engineering, govtech, ai-ctf-2025]
-author: xKeNcHii
+author: Koh Xuan Qi
 mermaid: true
 excerpt: Reverse-engineer a leaked KV cache to recover the original flag hidden within transformer internals. Demonstrates mathematical reversibility of transformer operations and exposes critical security vulnerabilities in model deployments.
 ---
@@ -299,7 +299,7 @@ def inverse_rope_single(x, theta):
 
 ---
 
-**Author**: xKeNcHii
+**Author**: Koh Xuan Qi
 **Blog**: Personal Tech Blog
 **Challenge**: Well Well Well @ GovTech AI CTF 2025
 **Date**: 14 October 2025
