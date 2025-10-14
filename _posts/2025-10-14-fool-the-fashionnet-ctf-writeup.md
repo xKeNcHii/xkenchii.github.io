@@ -315,7 +315,7 @@ Where:
 
 ---
 
-## Final Solution Summary
+## Final Solution Summary {#final-flag}
 
 > {:.prompt-info}
 > **TL;DR**: Successfully crafted an adversarial perturbation that fools FashionNET's classifier while maintaining near-perfect visual similarity, requiring five iterative attempts and sophisticated multi-objective optimization.
@@ -346,4 +346,4 @@ Where:
 **Author**: Koh Xuan Qi   
 **Blog**: Personal Tech Blog   
 **Challenge**: Fool the FashionNet! @ GovTech AI CTF 2025   
-**Date**: 14 October 2025  
+**Date**: 14 October 2025

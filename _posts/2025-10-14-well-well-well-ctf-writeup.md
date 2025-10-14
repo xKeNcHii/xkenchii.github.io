@@ -244,7 +244,7 @@ print(f"Recovered: {recovered_flag}")
 
 ---
 
-## Key Technical Insights
+## Key Technical Insights {#key-insights}
 
 > {:.prompt-info}
 > **TL;DR**: Understanding transformer internals reveals that KV caches are reversible through mathematical operations, exposing potential security risks in model deployments.
@@ -278,7 +278,7 @@ def inverse_rope_single(x, theta):
 
 ---
 
-## Final Solution Summary
+## Final Solution Summary {#final-flag}
 
 > {:.prompt-info}
 > **TL;DR**: Successfully reversed the transformer pipeline to recover the hidden flag from a leaked KV cache, exposing critical security implications for model deployments.

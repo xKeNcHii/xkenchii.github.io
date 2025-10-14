@@ -202,7 +202,7 @@ python submit.py --server https://mnist.aictf.sg --image backdoor.png
 
 ---
 
-## Key Technical Insights
+## Key Technical Insights {#key-insights}
 
 > {:.prompt-info}
 > **TL;DR**: This challenge demonstrates sophisticated backdoor techniques using tensor products and modular arithmetic, making the trigger both mathematically rigorous and difficult to detect through casual inspection.
@@ -217,7 +217,7 @@ python submit.py --server https://mnist.aictf.sg --image backdoor.png
 
 ---
 
-## Final Solution Summary
+## Final Solution Summary {#final-flag}
 
 > {:.prompt-info}
 > **TL;DR**: Successfully discovered and exploited a mathematically sophisticated backdoor in an MNIST classifier by analyzing tensor product verification mechanisms and solving modular arithmetic equations.

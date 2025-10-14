@@ -288,7 +288,7 @@ FLAG: AI2025{L1m1t_Th3ory_4_Kaya_T0ast}
 
 ---
 
-## Why Math Beat ML as Primary Approach
+## Why Math Beat ML as Primary Approach {#why-this-beat-ml-approaches}
 
 > {:.prompt-info}
 > **TL;DR**: Mathematical approach was **faster to implement** and produced an **exact formula** that extrapolates perfectly. ML verification (done afterward) confirmed the math method found the true relationship.
