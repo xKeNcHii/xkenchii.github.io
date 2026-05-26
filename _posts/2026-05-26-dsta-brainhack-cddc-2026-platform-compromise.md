@@ -1,6 +1,6 @@
 ---
 title: "DSTA BrainHack CDDC 2026: Vuln Chain to Platform Compromise"
-date: 2026-05-26 21:00:00 +0800
+date: 2026-05-26 18:24:00 +0800
 categories: [CTF, Disclosure]
 tags: [ctf, cddc-2026, responsible-disclosure, aws, ecs, ecr, imds, ssrf, puppeteer, svg]
 author: Koh Xuan Qi
